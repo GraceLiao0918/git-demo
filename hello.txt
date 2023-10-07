@@ -1,3 +1,4 @@
+hello lotso hello git!99
 hello lotso hello git!
 hello lotso hello git!
 hello lotso hello git!
@@ -10,5 +11,4 @@ hello lotso hello git!
 hello lotso hello git!
 hello lotso hello git!
 hello lotso hello git!
-hello lotso hello git!
-hello lotso hello git!
+hello lotso hello git-- (insert) --!
